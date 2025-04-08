@@ -1,4 +1,4 @@
-# 含能材料计算机
+# 含能材料计算器
 
 **[软件来源](http://www.sciencemadness.org/talk/viewthread.php?tid=159833)**
 
